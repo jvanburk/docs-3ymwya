@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-uwvkeu.ai-photo-stock.com/sitemap.xml
